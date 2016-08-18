@@ -118,7 +118,7 @@ brew "zsh"
 # brew "hub"
 
 # Image manipulation
-brew "imagemagick"
+#brew "imagemagick"
 
 # Testing
 # brew "qt"
